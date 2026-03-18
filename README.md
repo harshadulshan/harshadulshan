@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Harsha Dulshan Kaldera Banner"/>
+</p>
 <h1 align="center">👋 Hi, I'm Harsha Dulshan Kaldera</h1>
 <h3 align="center">MIS Undergraduate | Aspiring AI Researcher | Entrepreneur</h3>
 
