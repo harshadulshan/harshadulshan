@@ -1,0 +1,23 @@
+name: Latest Medium posts
+
+on:
+  schedule:
+    - cron: "40 6 * * *" # every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@harshakaldera540"
+          max_post_count: "4"
+          template: "- [$title]($url) · $date $newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update latest Medium posts"
+          enable_keepalive: "false"
