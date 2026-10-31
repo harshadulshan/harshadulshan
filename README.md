@@ -97,8 +97,7 @@ model, and explaining the answer so people can act on it.
 - 🆔 **ORCID:** [0009-0009-5824-0051](https://orcid.org/0009-0009-5824-0051)
 
 **📝 Latest on [Medium](https://medium.com/@harshakaldera540)**
-<!-- BLOG-POST-LIST:START -->
-- [Nobody Prepared Me for the Morning After Graduation](https://medium.com/@harshakaldera540/nobody-prepared-me-for-the-morning-after-graduation-648823b109d1) · Oct 24, 2026
+<!-- BLOG-POST-LIST:START -->- [Nobody Prepared Me for the Morning After Graduation](https://medium.com/@harshakaldera540/nobody-prepared-me-for-the-morning-after-graduation-648823b109d1?source=rss-4b28d0eb930e------2) · Oct 24, 2026 
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Certifications
