@@ -129,7 +129,7 @@ All earned in 2026.
   <img alt="3D contribution graph with stars, forks and languages" src="https://raw.githubusercontent.com/harshadulshan/harshadulshan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </picture>
 
-<img src="https://streak-stats.demolab.com/?user=harshadulshan&theme=tokyonight&background=0D1117&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&border=30363d" width="62%" alt="Contribution streak">
+<img src="https://streak-stats.demolab.com/?user=harshadulshan&theme=tokyonight&background=0D1117&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&border=30363d&v=2" width="62%" alt="Contribution streak">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshadulshan/harshadulshan/output/github-contribution-grid-snake-dark.svg">
