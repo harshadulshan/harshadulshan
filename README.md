@@ -97,7 +97,8 @@ model, and explaining the answer so people can act on it.
 - 🆔 **ORCID:** [0009-0009-5824-0051](https://orcid.org/0009-0009-5824-0051)
 
 **📝 Latest on [Medium](https://medium.com/@harshakaldera540)**
-<!-- BLOG-POST-LIST:START -->- [Nobody Prepared Me for the Morning After Graduation](https://medium.com/@harshakaldera540/nobody-prepared-me-for-the-morning-after-graduation-648823b109d1?source=rss-4b28d0eb930e------2) · Oct 24, 2026 
+<!-- BLOG-POST-LIST:START -->
+- [Nobody Prepared Me for the Morning After Graduation](https://medium.com/@harshakaldera540/nobody-prepared-me-for-the-morning-after-graduation-648823b109d1) · Oct 24, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Certifications
@@ -129,13 +130,9 @@ All earned in 2026.
   <img alt="3D contribution graph with stars, forks and languages" src="https://raw.githubusercontent.com/harshadulshan/harshadulshan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </picture>
 
-<img src="https://streak-stats.demolab.com/?user=harshadulshan&theme=tokyonight&background=0D1117&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&border=30363d&v=2" width="62%" alt="Contribution streak">
+<img src="assets/generated/reactor.svg" width="100%" alt="Plasma reactor core: total contributions, current streak and longest streak">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshadulshan/harshadulshan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshadulshan/harshadulshan/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/harshadulshan/harshadulshan/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="assets/generated/serpent.svg" width="100%" alt="Plasma serpent absorbing the contribution grid">
 
 </div>
 
